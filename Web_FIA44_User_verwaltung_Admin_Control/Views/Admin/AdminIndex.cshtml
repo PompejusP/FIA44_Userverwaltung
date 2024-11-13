@@ -1,0 +1,66 @@
+﻿@using Web_FIA44_User_verwaltung_Admin_Control.Models
+@model List<User>
+
+@{
+    ViewData["Title"] = "AdminIndex";
+}
+
+<h1>AdminIndex</h1>
+
+<p>
+    <a class="btn btn-outline-secondary" asp-controller="admin" asp-action="newUser">Neuer User</a>
+</p>
+<table class="table table-hover">
+    <thead class="table-secondary">
+        <tr>
+            <th>
+                UserId
+            </th>
+            <th>
+                Username
+            </th>
+            <th>
+                Geburtsdatum
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Nutzerbild
+            </th>
+            <th>
+                Admin ?
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (User user in Model) {
+        <tr>
+            <td>
+                @user.UId
+            </td>
+            <td>
+                @user.Username
+            </td>
+            <td>
+                @user.Birthday.ToString("dd.MM.yyyy")
+            </td>
+            <td>
+                @user.Email
+            </td>
+            <td>
+                <img src="@user.UserImg"  width="50px" />
+            </td>
+            <td>
+                @user.IsAdmin
+            </td>
+            <td>
+                    <a class="link-underline-opacity-0" href="/admin/Details?UId=@user.UId">🔎</a>
+                    <a class="link-underline-opacity-0" href="/admin/deleteUser?UId=@user.UId">🗑️</a>
+                    <a class="link-underline-opacity-0" href="/admin/update?UId=@user.UId">🔧</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

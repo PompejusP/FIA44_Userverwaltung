@@ -1,0 +1,2645 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_FIA44_User_verwaltung_Admin_Control.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Web_FIA44_User_verwaltung_Admin_Control.kb7tkr1om3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\0b4e1e66-7aa2-4bdd-8247-d726d78596e0.png",
+      "PackagePath": "staticwebassets\\Images\\UserImages\\0b4e1e66-7aa2-4bdd-8247-d726d78596e0.png"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\UserImages\\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg",
+      "PackagePath": "staticwebassets\\Images\\UserImages\\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\alert.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\alert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\base-component.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\base-component.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\button.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\button.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\carousel.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\collapse.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\collapse.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\data.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\data.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\event-handler.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\event-handler.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\manipulator.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\manipulator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dom\\selector-engine.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dom\\selector-engine.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\dropdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\modal.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\modal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\offcanvas.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\offcanvas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\popover.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\popover.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\scrollspy.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\scrollspy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\tab.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\tab.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\toast.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\toast.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\tooltip.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\backdrop.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\backdrop.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\component-functions.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\component-functions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\config.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\config.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\focustrap.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\focustrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\index.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\index.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\sanitizer.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\sanitizer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\swipe.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\swipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\dist\\util\\template-factory.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\dist\\util\\template-factory.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\index.esm.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\index.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\index.esm.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\index.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\index.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\index.umd.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\index.umd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\alert.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\alert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\base-component.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\base-component.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\button.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\button.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\carousel.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\collapse.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\collapse.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dom\\data.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dom\\data.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dom\\event-handler.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dom\\event-handler.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dom\\manipulator.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dom\\manipulator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dom\\selector-engine.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dom\\selector-engine.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\dropdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\modal.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\modal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\offcanvas.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\offcanvas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\popover.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\popover.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\scrollspy.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\scrollspy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\tab.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\tab.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\toast.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\toast.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\tooltip.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\backdrop.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\backdrop.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\component-functions.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\component-functions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\config.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\config.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\focustrap.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\focustrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\index.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\index.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\sanitizer.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\sanitizer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\swipe.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\swipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\js\\src\\util\\template-factory.min.js",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\js\\src\\util\\template-factory.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\license",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\readme.md",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Libary\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation-unobtrusive\\license.txt",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation-unobtrusive\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation-unobtrusive\\package.json",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation-unobtrusive\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation-unobtrusive\\readme.md",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation-unobtrusive\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_az.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_bn_bd.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_bn_bd.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_bn_bd.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_bn_bd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_da.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_de.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_el.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_es.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_es_ar.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_es_ar.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_es_ar.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_es_ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_es_pe.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_es_pe.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_es_pe.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_es_pe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_et.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_he.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_hi.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_hi.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_hi.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_hi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_hy_am.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_hy_am.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_hy_am.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_hy_am.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_id.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_is.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_it.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_my.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_no.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_pt_br.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_pt_br.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_pt_br.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_pt_br.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_pt_pt.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_pt_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_pt_pt.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_pt_pt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_si.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_th.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_zh_tw.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_zh_tw.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\messages_zh_tw.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\messages_zh_tw.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_de.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_es_cl.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_es_cl.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_es_cl.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_es_cl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_it.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\dist\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\dist\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\license.md",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\license.md"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\package.json",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery-validation\\readme.md",
+      "PackagePath": "staticwebassets\\Libary\\jquery-validation\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\authors.txt",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\authors.txt"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\license.txt",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\readme.md",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\jsonp.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\jsonp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\load.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\load.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\script.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\script.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\var\\location.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\var\\location.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\var\\nonce.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\var\\nonce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\var\\rquery.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\var\\rquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\ajax\\xhr.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\ajax\\xhr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\attr.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\attr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\classes.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\classes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\prop.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\prop.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\support.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\support.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\attributes\\val.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\attributes\\val.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\callbacks.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\callbacks.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\access.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\access.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\camelcase.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\camelcase.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\camelcase.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\camelcase.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\domeval.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\domeval.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\domeval.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\domeval.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\init.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\init.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\isattached.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\isattached.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\isattached.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\isattached.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\nodename.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\nodename.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\nodename.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\nodename.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\parsehtml.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\parsehtml.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\parsehtml.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\parsehtml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\parsexml.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\parsexml.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\parsexml.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\parsexml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\ready-no-deferred.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\ready-no-deferred.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\ready.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\ready.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\readyexception.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\readyexception.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\readyexception.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\readyexception.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\stripandcollapse.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\stripandcollapse.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\stripandcollapse.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\stripandcollapse.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\support.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\support.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\totype.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\totype.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\totype.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\totype.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\var\\rhtml.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\var\\rhtml.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\var\\rhtml.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\var\\rhtml.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\var\\rsingletag.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\var\\rsingletag.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\core\\var\\rsingletag.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\core\\var\\rsingletag.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\addgethookif.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\addgethookif.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\addgethookif.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\addgethookif.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\adjustcss.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\adjustcss.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\adjustcss.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\adjustcss.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\curcss.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\curcss.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\curcss.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\curcss.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\finalpropname.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\finalpropname.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\finalpropname.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\finalpropname.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\hiddenvisibleselectors.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\hiddenvisibleselectors.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\hiddenvisibleselectors.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\hiddenvisibleselectors.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\showhide.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\showhide.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\showhide.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\showhide.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\support.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\support.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\cssexpand.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\cssexpand.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\cssexpand.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\cssexpand.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\getstyles.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\getstyles.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\getstyles.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\getstyles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\ishiddenwithintree.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\ishiddenwithintree.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\ishiddenwithintree.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\ishiddenwithintree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\rboxstyle.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\rboxstyle.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\rboxstyle.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\rboxstyle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\rcustomprop.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\rcustomprop.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\rcustomprop.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\rcustomprop.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\rnumnonpx.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\rnumnonpx.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\css\\var\\swap.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\css\\var\\swap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data\\data.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data\\data.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data\\data.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data\\var\\acceptdata.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data\\var\\acceptdata.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data\\var\\acceptdata.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data\\var\\acceptdata.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data\\var\\datapriv.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data\\var\\datapriv.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data\\var\\datapriv.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data\\var\\datapriv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data\\var\\datauser.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data\\var\\datauser.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\data\\var\\datauser.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\data\\var\\datauser.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deferred.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deferred.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deferred\\exceptionhook.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deferred\\exceptionhook.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deferred\\exceptionhook.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deferred\\exceptionhook.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deprecated.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deprecated.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deprecated\\ajax-event-alias.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deprecated\\ajax-event-alias.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deprecated\\ajax-event-alias.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deprecated\\ajax-event-alias.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deprecated\\event.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deprecated\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\deprecated\\event.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\deprecated\\event.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\dimensions.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\dimensions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\effects.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\effects.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\effects\\animatedselector.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\effects\\animatedselector.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\effects\\animatedselector.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\effects\\animatedselector.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\effects\\tween.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\effects\\tween.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\effects\\tween.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\effects\\tween.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\event.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\event.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\event\\trigger.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\event\\trigger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\exports\\amd.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\exports\\amd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\exports\\global.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\exports\\global.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\_evalurl.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\_evalurl.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\_evalurl.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\_evalurl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\buildfragment.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\buildfragment.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\buildfragment.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\buildfragment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\getall.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\getall.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\getall.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\getall.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\setglobaleval.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\setglobaleval.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\setglobaleval.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\setglobaleval.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\support.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\support.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\var\\rscripttype.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\var\\rscripttype.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\var\\rscripttype.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\var\\rscripttype.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\var\\rtagname.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\var\\rtagname.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\var\\rtagname.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\var\\rtagname.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\wrapmap.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\wrapmap.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\manipulation\\wrapmap.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\manipulation\\wrapmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\offset.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\offset.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\queue.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\queue.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\queue\\delay.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\queue\\delay.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\selector-native.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\selector-native.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\selector.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\selector.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\selector\\contains.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\selector\\contains.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\selector\\contains.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\selector\\contains.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\selector\\escapeselector.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\selector\\escapeselector.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\selector\\escapeselector.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\selector\\escapeselector.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\serialize.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\serialize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing\\findfilter.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing\\findfilter.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing\\findfilter.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing\\findfilter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing\\var\\dir.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing\\var\\dir.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing\\var\\rneedscontext.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing\\var\\rneedscontext.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing\\var\\rneedscontext.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing\\var\\rneedscontext.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\traversing\\var\\siblings.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\traversing\\var\\siblings.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\arr.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\arr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\class2type.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\class2type.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\document.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\document.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\documentelement.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\documentelement.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\documentelement.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\documentelement.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\flat.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\flat.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\flat.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\flat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\fntostring.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\fntostring.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\fntostring.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\fntostring.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\getproto.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\getproto.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\getproto.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\getproto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\hasown.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\hasown.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\hasown.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\hasown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\indexof.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\indexof.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\indexof.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\indexof.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\isfunction.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\isfunction.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\isfunction.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\isfunction.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\iswindow.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\iswindow.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\iswindow.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\iswindow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\objectfunctionstring.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\objectfunctionstring.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\objectfunctionstring.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\objectfunctionstring.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\pnum.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\pnum.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\pop.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\pop.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\pop.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\pop.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\push.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\push.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\rcheckabletype.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\rcheckabletype.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\rcheckabletype.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\rcheckabletype.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\rcssnum.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\rcssnum.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\rcssnum.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\rcssnum.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\rnothtmlwhite.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\rnothtmlwhite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\rtrimcss.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\rtrimcss.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\rtrimcss.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\rtrimcss.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\slice.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\slice.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\sort.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\sort.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\sort.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\sort.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\splice.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\splice.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\splice.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\splice.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\support.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\support.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\tostring.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\tostring.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\tostring.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\tostring.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\whitespace.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\whitespace.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\var\\whitespace.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\var\\whitespace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\jquery\\src\\wrap.min.js",
+      "PackagePath": "staticwebassets\\Libary\\jquery\\src\\wrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_FIA44_User_verwaltung_Admin_Control.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_FIA44_User_verwaltung_Admin_Control.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_FIA44_User_verwaltung_Admin_Control.props",
+      "PackagePath": "build\\Web_FIA44_User_verwaltung_Admin_Control.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_FIA44_User_verwaltung_Admin_Control.props",
+      "PackagePath": "buildMultiTargeting\\Web_FIA44_User_verwaltung_Admin_Control.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_FIA44_User_verwaltung_Admin_Control.props",
+      "PackagePath": "buildTransitive\\Web_FIA44_User_verwaltung_Admin_Control.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

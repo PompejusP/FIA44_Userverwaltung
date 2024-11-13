@@ -1,0 +1,8 @@
+﻿Diese Userdaten werden nach abschluss der Tabellenerstellung in die Tabelle eingefügt!
+
+SET IDENTITY_INSERT [dbo].[User] ON
+INSERT INTO [dbo].[User] ([UId], [Username], [HashedKeyword], [Salt], [Birthday], [UserImg], [IsAdmin], [Email]) VALUES (1, N'Admin                                             ', N't3WV/idVWqpbF8rKwP1XwpbO7FHU8TVXFOlFTFKWiuI=', N'enDieOegY9leDFxUDXsDeQ==', N'1986-04-05', N'466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg', 1, N'admin@admin.de')
+INSERT INTO [dbo].[User] ([UId], [Username], [HashedKeyword], [Salt], [Birthday], [UserImg], [IsAdmin], [Email]) VALUES (2, N'Willi', N'Inlm9VmQw7r9UJJ+scnvX1LEyx0ubeOsjA4LUacv3xA=', N'PZX15Ixk6+Ku3AQWTOOArg==', N'1966-01-11', NULL, 0, N'Willi.will@eswissen.de')
+INSERT INTO [dbo].[User] ([UId], [Username], [HashedKeyword], [Salt], [Birthday], [UserImg], [IsAdmin], [Email]) VALUES (7, N'flanzi', N'hF1MdtV4NSYBH74S1WngmmeQ0gJXAYUrpDeVDof/xWE=', N'uPW9r8D2i2Dyi/pT1nEHAg==', N'2002-12-24', N'0b4e1e66-7aa2-4bdd-8247-d726d78596e0.png', 0, N'Flanzi@leaf.de')
+INSERT INTO [dbo].[User] ([UId], [Username], [HashedKeyword], [Salt], [Birthday], [UserImg], [IsAdmin], [Email]) VALUES (8, N'Enton', N'y4vm2MX1k+bTTr9MO6MsjuGOZVLQON5Hjx0xSFPvnDw=', N'27PNTqrxOsfffBaMviqakw==', N'1933-05-31', N'77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg', 0, N'Enton@ente.de')
+SET IDENTITY_INSERT [dbo].[User] OFF

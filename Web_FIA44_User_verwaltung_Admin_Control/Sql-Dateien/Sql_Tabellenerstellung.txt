@@ -1,0 +1,23 @@
+﻿Erstellen der Tabelle User in der Datenbank!
+Bitte zuerste die Datenbank erstellen und dann die Tabellen erstellen!
+Die Datenbank muss dann in der Appsettings.json Datei angegeben werden! ansonsten findet die Anwendung die Datenbank nicht!
+Beispiel: "AllowedHosts": "*",
+    "ConnectionStrings": {
+        "SqlServer": "Data Source=(LocalDb)\\MSSQLLocalDB;Initial Catalog=DB_Eins_zu_N;Integrated Security=True;Pooling=False;Encrypt=False;Trust Server Certificate=False"
+    }!!!!!!
+
+    Erstellen der Tabelle User in der Datenbank!
+    CREATE TABLE [dbo].[User] (
+    [UId]           INT           IDENTITY (1, 1) NOT NULL,
+    [Username]      NVARCHAR (50) NOT NULL,
+    [HashedKeyword] NVARCHAR (50) NOT NULL,
+    [Salt]          NVARCHAR (50) NOT NULL,
+    [Birthday]      DATE          NOT NULL,
+    [UserImg]       NVARCHAR (50) NULL,
+    [IsAdmin]       BIT           NOT NULL,
+    [Email]         NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([UId] ASC)
+);
+
+anschliessend die Userdaten in die Tabelle einfügen!
+diese sind in der Text Datei Userdaten.txt zu finden!

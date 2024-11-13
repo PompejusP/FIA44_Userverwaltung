@@ -1,0 +1,74 @@
+﻿@model Web_FIA44_User_verwaltung_Admin_Control.Models.User
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+
+    <div class="card">
+        <div class="card-header bg-body-secondary">
+            <h4>@Model.Username</h4>
+            <img src="@Model.UserImg" alt="User Image" width="150px" />
+        </div>
+        <hr />
+        <div class="card-body bg-body-secondary">
+            <dl class="row">
+                <dt class="col-sm-3  text-black-50 text-decoration-underline">
+                    @Html.DisplayNameFor(model => model.UId)
+                </dt>
+                <dd class="col-sm-9  text-dark">
+                    @Html.DisplayFor(model => model.UId)
+                </dd>
+                <dt class="col-sm-3  text-black-50 text-decoration-underline">
+                    @Html.DisplayNameFor(model => model.Username)
+                </dt>
+                <dd class="col-sm-9  text-dark">
+                    @Html.DisplayFor(model => model.Username)
+                </dd>
+                <dt class="col-sm-3  text-black-50 text-decoration-underline">
+                    @Html.DisplayNameFor(model => model.HashedKeyword)
+                </dt>
+                <dd class="col-sm-9  text-dark">
+                    @Html.DisplayFor(model => model.HashedKeyword)
+                </dd>
+                <dt class="col-sm-3  text-black-50 text-decoration-underline">
+                    @Html.DisplayNameFor(model => model.Salt)
+                </dt>
+                <dd class="col-sm-9  text-dark">
+                    @Html.DisplayFor(model => model.Salt)
+                </dd>
+                <dt class="col-sm-3  text-black-50 text-decoration-underline">
+                    @Html.DisplayNameFor(model => model.Birthday)
+                </dt>
+                <dd class="col-sm-9  text-dark">
+                    @Model.Birthday.ToString("dd.MM.yyyy")
+                </dd>
+                <dt class="col-sm-3  text-black-50 text-decoration-underline">
+                    @Html.DisplayNameFor(model => model.Email)
+                </dt>
+                <dd class="col-sm-9  text-dark">
+                    @Html.DisplayFor(model => model.Email)
+                </dd>
+                <dt class="col-sm-3  text-black-50 text-decoration-underline">
+                    @Html.DisplayNameFor(model => model.UserImg)
+                </dt>
+                <dd class="col-sm-9  text-dark">
+                    @Html.DisplayFor(model => model.UserImg)
+                </dd>
+                <dt class="col-sm-3  text-black-50 text-decoration-underline">
+                    @Html.DisplayNameFor(model => model.IsAdmin)
+                </dt>
+                <dd class="col-sm-9  text-dark">
+                    @Html.DisplayFor(model => model.IsAdmin)
+                </dd>
+
+
+            </dl>
+        </div>
+    </div>
+<div>
+   <a class = "btn btn-outline-secondary" href="/home/update?UId=@ViewBag.UId">Ändern</a> |
+    <a class="btn btn-outline-secondary" asp-action="Index">Zur Startseite</a>
+</div>

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\UserImages\" />
+    <Folder Include="wwwroot\Libary\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary_FIA44_HashHelper">
+      <HintPath>..\..\ClassLibrary_FIA44_HashHelper\ClassLibrary_FIA44_HashHelper\bin\Debug\net8.0\ClassLibrary_FIA44_HashHelper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,77 @@
+﻿
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"] - Web_Template</title>
+	<link href="~/libary/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+	<link href="~/libary/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="~/libary/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+	<link href="~/libary/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+	<a href="~/libary/bootstrap/dist/css/bootstrap.css.map">~/libary/bootstrap/dist/css/bootstrap.css.map</a>
+	<a href="~/libary/bootstrap/dist/css/bootstrap.min.css.map">~/libary/bootstrap/dist/css/bootstrap.min.css.map</a>
+	<a href="~/libary/bootstrap/dist/css/bootstrap.rtl.css.map">~/libary/bootstrap/dist/css/bootstrap.rtl.css.map</a>
+	<a href="~/libary/bootstrap/dist/css/bootstrap.rtl.min.css.map">~/libary/bootstrap/dist/css/bootstrap.rtl.min.css.map</a>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Userverwaltung</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        @if (ViewBag.IsAdmin == true)
+                        {
+                        <li class="nav-item">
+							<a class="nav-link" href="/admin/AdminIndex">Adminbereich</a>
+                            </li>
+                        }
+                    </ul>
+                    @if (ViewBag.Username == null)
+                    {
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+								<a class="nav-link link-underline-secondary" href="/home/Register">Registrieren</a>
+							</li>
+                        </ul>
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link link-underline-secondary" href="/home/Login">Login</a>
+                            </li>
+                        </ul>
+                    }
+					else
+					{
+
+						<ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/home/Details?UId=@ViewBag.UId" > Eingeloggt als @ViewBag.Username </a>
+                            </li>
+							<li class="nav-item">
+								<a class="nav-link link-underline-secondary" href="/home/Logout">Logout</a>
+							</li>
+						</ul>
+                    }
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main role="main" class="container">
+        <div class="bg-body-tertiary p-5 rounded">
+            @RenderBody()
+        </div>
+    </main>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
