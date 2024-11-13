@@ -257,3 +257,4 @@ C:\Users\pompi\Desktop\Programmieren\Web_FIA44_User_verwaltung_Admin_Control\Web
 C:\Users\pompi\Desktop\Programmieren\Web_FIA44_User_verwaltung_Admin_Control\Web_FIA44_User_verwaltung_Admin_Control\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\pompi\Desktop\Programmieren\Web_FIA44_User_verwaltung_Admin_Control\Web_FIA44_User_verwaltung_Admin_Control\obj\Debug\net8.0\staticwebassets\msbuild.Web_FIA44_User_verwaltung_Admin_Control.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\pompi\Desktop\Programmieren\Web_FIA44_User_verwaltung_Admin_Control\Web_FIA44_User_verwaltung_Admin_Control\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\pompi\Desktop\Programmieren\Web_FIA44_User_verwaltung_Admin_Control\Web_FIA44_User_verwaltung_Admin_Control\obj\Debug\net8.0\Web_FIA44_User_verwaltung_Admin_Control.sourcelink.json

@@ -104,6 +104,12 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
                         ModelState.AddModelError("Username", "Der Benutzername ist bereits vergeben.");
                         return View(user);
                     }
+					//Wenn die Email nicht verfügbar ist, wird eine Fehlermeldung ausgegeben
+					if (!service.IsEmailAvailable(user.Email))
+					{
+						ModelState.AddModelError("Email", "Die Email ist bereits vergeben.");
+						return View(user);
+					}
 					//Wenn das Userbild nicht leer ist, wird es in den Pfad /images/UserImages gespeichert
 					if (user.Image != null)
 					{
@@ -216,12 +222,32 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
                         ModelState.AddModelError("Username", "Der Benutzername ist bereits vergeben.");
                         return View(model);
                     }
+					//wenn die Email nicht mit der aktuellen Email übereinstimmt und die Email bereits vergeben ist, wird eine Fehlermeldung ausgegeben
+					if (currentUser.Email != model.Email && !service.IsEmailAvailable(model.Email))
+					{
+						ModelState.AddModelError("Email", "Die Email ist bereits vergeben.");
+						return View(model);
+					}
 					//Wenn das Userbild nicht leer ist, wird es in den Pfad /images/UserImages gespeichert
-					if (model.Image != null)
+					if ( model.Image != null)
                     {
                         string uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/UserImages");
+						//wenn der User ein neues Bild hat, wird das alte Bild gelöscht
+						if (!string.IsNullOrEmpty(model.UserImg))
+						{
+							string oldImagePath = Path.Combine(uploadFolder, model.UserImg);
+							if (System.IO.File.Exists(oldImagePath))
+							{
+								System.IO.File.Delete(oldImagePath);
+							}
+						}
                         model.UserImg = FileUploadHelper.UploadFile(model.Image, uploadFolder);
                     }
+					//wenn das Userbild leer ist, wird das alte Bild übernommen
+					else
+					{
+						model.UserImg = currentUser.UserImg;
+					}
 					//Der User wird in die Datenbank eingefügt 
 					User user = new User
                     {
@@ -236,12 +262,12 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 					//Der User wird in die Datenbank eingefügt
 					service.updateUser(user);
 					//Der User wird nach dem Aktualisieren auf die AdminIndex-Seite weitergeleitet
-					return RedirectToAction("Index");
+					return RedirectToAction("AdminIndex");
                 }
 				//Fehlermeldung wird nach einem Fehler ausgegeben
 				catch (Exception ex)
                 {
-                    ModelState.AddModelError("", "Ein Fehler ist aufgetreten");
+                    ModelState.AddModelError("", "Ein Fehler ist aufgetreten: " + ex.Message);
                     Console.WriteLine(ex.Message);
                 }
             }

@@ -20,5 +20,7 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.DAL
 
 		User GetUserByString(string username);
 
+		bool IsEmailAvaiable(string email);
+
 	}
 }

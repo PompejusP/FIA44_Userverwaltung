@@ -194,12 +194,36 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
                         ModelState.AddModelError("Username", "Der Benutzername ist bereits vergeben.");
                         return View(model);
                     }
+					//Überprüfe wenn die  Email geändert wurd  und ob die neu eingetragene  Email bereits vergeben ist 
+					//wenn die Email bereits vergeben ist, wird eine Fehlermeldung angezeigt
+					//wenn die Email nicht geändert wurde, wird der User geupdatet
+					//wenn eine neue Email eingetragen wurde, wird die Email überprüft ob sie bereits vergeben ist
+					//ist sie nicht vergeben, wird der User geupdatet
+					if (currentUser.Email != model.Email && !service.IsEmailAvailable(model.Email))
+					{
+						ModelState.AddModelError("Email", "Die Email ist bereits vergeben.");
+						return View(model);
+					}
 					//wenn der User ein Bild hat, wird der Pfad zu dem Bild hinzugefügt
 					if (model.Image != null)
-                    {
-                        string uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/UserImages");
-                        model.UserImg = FileUploadHelper.UploadFile(model.Image, uploadFolder);
-                    }
+					{
+						string uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/UserImages");
+						//wenn der User ein neues Bild hat, wird das alte Bild gelöscht
+						if (!string.IsNullOrEmpty(model.UserImg))
+						{
+							string oldImagePath = Path.Combine(uploadFolder, model.UserImg);
+							if (System.IO.File.Exists(oldImagePath))
+							{
+								System.IO.File.Delete(oldImagePath);
+							}
+						}
+						model.UserImg = FileUploadHelper.UploadFile(model.Image, uploadFolder);
+					}
+					//wenn das Userbild leer ist, wird das alte Bild übernommen
+					else
+					{
+						model.UserImg = currentUser.UserImg;
+					}
 					//der User wird in ein User Objekt umgewandelt
 					User user = new User
                     {
@@ -267,12 +291,20 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
                         ModelState.AddModelError("Username", "Der Benutzername ist bereits vergeben.");
                         return View(model);
                     }
+					//überprüfe ob die Email bereits vergeben ist wenn die Email bereits vergeben ist, wird eine Fehlermeldung angezeigt 
+					if (!service.IsEmailAvailable(model.Email))
+					{
+						ModelState.AddModelError("Email", "Die Email ist bereits vergeben.");
+						return View(model);
+					}
 					//wenn der User ein Bild hat, wird der Pfad zu dem Bild hinzugefügt
 					if (model.Image != null)
 					{
-						string uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/UserImages");
+						string uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/UserImages");	
 						model.UserImg = FileUploadHelper.UploadFile(model.Image, uploadFolder);
 					}
+					//wenn das Userbild leer ist, wird das alte Bild übernommen
+					
 					//der User wird in ein User Objekt umgewandelt
 					User user = new User
                     {

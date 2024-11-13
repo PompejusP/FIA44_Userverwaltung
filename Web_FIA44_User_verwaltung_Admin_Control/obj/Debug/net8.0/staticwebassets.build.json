@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qF7kI59r3i/MWviUhQ8Vv90hiyFEhai9cu0wefSWJMM=",
+  "Hash": "kt8HdYIuDaboLOqTtCONfGkchyKDIAwrHj8s7ZLFIaY=",
   "Source": "Web_FIA44_User_verwaltung_Admin_Control",
   "BasePath": "_content/Web_FIA44_User_verwaltung_Admin_Control",
   "Mode": "Default",
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\UserImages\\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg",
+      "SourceId": "Web_FIA44_User_verwaltung_Admin_Control",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\",
+      "BasePath": "_content/Web_FIA44_User_verwaltung_Admin_Control",
+      "RelativePath": "Images/UserImages/5ef240f2-e689-4378-ae01-25e8d260f8b0#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zeyuq6zope",
+      "Integrity": "RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\UserImages\\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg"
     },
     {
       "Identity": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg",
@@ -14033,6 +14054,88 @@
         {
           "Name": "label",
           "Value": "Images/UserImages/466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/UserImages/5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg",
+      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 20:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/UserImages/5ef240f2-e689-4378-ae01-25e8d260f8b0.zeyuq6zope.jpeg",
+      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 20:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zeyuq6zope"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/UserImages/5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg"
         },
         {
           "Name": "integrity",

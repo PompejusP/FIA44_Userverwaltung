@@ -293,10 +293,35 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.DAL
 				return user;
 			}
 		}
-        #endregion
 
-       
-    }
+
+		#endregion
+
+		#region Überprüfen ob die Email schon vergeben ist
+		public bool IsEmailAvaiable(string email)
+		{
+			string query = "SELECT COUNT(*) FROM [User] WHERE Email = @Email";
+			//Verbindung zur Datenbank
+			using (SqlConnection connection = new SqlConnection(connectionString))
+			{
+				//SqlCommand um die SQL-Abfrage auszuführen
+				SqlCommand cmd = new SqlCommand(query, connection);
+				//Parameter hinzufügen
+				cmd.Parameters.AddWithValue("@Email", email);
+				//Verbindung öffnen
+				connection.Open();
+				//Anzahl der betroffenen Zeilen
+				int count = (int)cmd.ExecuteScalar();
+				//Verbindung schließen
+				connection.Close();
+				//True zurückgeben, wenn die Email verfügbar ist bzw wenn count = 0 ist ansonsten false
+				return count == 0;
+			}
+		}
+
+
+		#endregion
+	}
 
 }
 

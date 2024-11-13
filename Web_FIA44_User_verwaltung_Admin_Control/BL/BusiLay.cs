@@ -162,9 +162,16 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.BL
 			//Überprüfen ob der Username verfügbar ist
 			return dal.IsUsernameAvaiable(username);
         }
-        #endregion
+		#endregion
+
+		#region Überprüfen ob die Email nicht vergeben ist
+		public bool IsEmailAvailable(string email)
+		{
+			//Überprüfen ob die Email verfügbar ist
+			return dal.IsEmailAvaiable(email);
+		}
+		#endregion
 
 
-
-    }
+	}
 }

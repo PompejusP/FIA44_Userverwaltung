@@ -14,5 +14,7 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.BL
        
         bool IsUsernameAvailable(string username);
         void RegisterUser(User user);
+
+		bool IsEmailAvailable(string email);
 	}
 }
