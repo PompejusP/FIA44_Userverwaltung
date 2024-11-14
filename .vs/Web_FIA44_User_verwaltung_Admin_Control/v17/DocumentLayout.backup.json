@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|c:\\users\\pompi\\desktop\\programmieren\\web_fia44_user_verwaltung_admin_control\\web_fia44_user_verwaltung_admin_control\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|solutionrelative:web_fia44_user_verwaltung_admin_control\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|c:\\users\\pompi\\desktop\\programmieren\\web_fia44_user_verwaltung_admin_control\\web_fia44_user_verwaltung_admin_control\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|solutionrelative:web_fia44_user_verwaltung_admin_control\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|c:\\users\\pompi\\desktop\\programmieren\\web_fia44_user_verwaltung_admin_control\\web_fia44_user_verwaltung_admin_control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|solutionrelative:web_fia44_user_verwaltung_admin_control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|c:\\users\\pompi\\desktop\\programmieren\\web_fia44_user_verwaltung_admin_control\\web_fia44_user_verwaltung_admin_control\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|solutionrelative:web_fia44_user_verwaltung_admin_control\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|c:\\users\\pompi\\desktop\\programmieren\\web_fia44_user_verwaltung_admin_control\\web_fia44_user_verwaltung_admin_control\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCA87B5-7D00-4B12-9D8F-70CDCE45C4B0}|Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control.csproj|solutionrelative:web_fia44_user_verwaltung_admin_control\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 191,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUBAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T19:44:34.923Z",
+              "WhenOpened": "2024-11-14T20:03:45.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Program.cs",
-              "RelativeDocumentMoniker": "Web_FIA44_User_verwaltung_Admin_Control\\Program.cs",
-              "ToolTip": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Program.cs",
-              "RelativeToolTip": "Web_FIA44_User_verwaltung_Admin_Control\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8BAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T20:42:49.427Z",
+              "WhenOpened": "2024-11-14T20:03:14.334Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Views\\Admin\\Details.cshtml",
-              "RelativeDocumentMoniker": "Web_FIA44_User_verwaltung_Admin_Control\\Views\\Admin\\Details.cshtml",
-              "ToolTip": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Views\\Admin\\Details.cshtml",
-              "RelativeToolTip": "Web_FIA44_User_verwaltung_Admin_Control\\Views\\Admin\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T08:17:48.281Z"
             },
             {
               "$type": "Bookmark",
@@ -81,19 +61,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Web_FIA44_User_verwaltung_Admin_Control\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkBAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T19:23:56.143Z",
-              "EditorCaption": ""
             }
           ]
         }

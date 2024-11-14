@@ -309,10 +309,10 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 
 		#region ist der username verfügbar?
 		//die Methode IsUsernameValid überprüft ob der Username verfügbar ist bei der Update Methode
-		private bool IsUsernameValid(User currentUser, string newWusername)
+		private bool IsUsernameValid(User currentUser, string newusername)
 		{
 			//Wenn der USername nicht dem aktuellen Usernamen entspricht und der Username nicht verfügbar ist, wird eine Fehlermeldung ausgegeben
-			if (currentUser.Username != newWusername && !service.IsUsernameAvailable(newWusername))
+			if (currentUser.Username != newusername && !service.IsUsernameAvailable(newusername))
 			{
 				ModelState.AddModelError("Username", "Der Benutzername ist bereits vergeben.");
 				return false;
