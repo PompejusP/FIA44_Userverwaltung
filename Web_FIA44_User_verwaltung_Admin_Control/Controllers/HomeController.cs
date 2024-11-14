@@ -188,42 +188,11 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
                     {
                         return NotFound();
                     }
-					//überprüfe ob der Username nicht gleich ist und ob der Username bereits vergeben ist
-					if (currentUser.Username != model.Username && !service.IsUsernameAvailable(model.Username))
-                    {
-                        ModelState.AddModelError("Username", "Der Benutzername ist bereits vergeben.");
-                        return View(model);
-                    }
-					//Überprüfe wenn die  Email geändert wurd  und ob die neu eingetragene  Email bereits vergeben ist 
-					//wenn die Email bereits vergeben ist, wird eine Fehlermeldung angezeigt
-					//wenn die Email nicht geändert wurde, wird der User geupdatet
-					//wenn eine neue Email eingetragen wurde, wird die Email überprüft ob sie bereits vergeben ist
-					//ist sie nicht vergeben, wird der User geupdatet
-					if (currentUser.Email != model.Email && !service.IsEmailAvailable(model.Email))
+					if (!IsUsernameValid(currentUser, model.Username) || !IsEmailValid(currentUser, model.Email))
 					{
-						ModelState.AddModelError("Email", "Die Email ist bereits vergeben.");
 						return View(model);
 					}
-					//wenn der User ein Bild hat, wird der Pfad zu dem Bild hinzugefügt
-					if (model.Image != null)
-					{
-						string uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/UserImages");
-						//wenn der User ein neues Bild hat, wird das alte Bild gelöscht
-						if (!string.IsNullOrEmpty(model.UserImg))
-						{
-							string oldImagePath = Path.Combine(uploadFolder, model.UserImg);
-							if (System.IO.File.Exists(oldImagePath))
-							{
-								System.IO.File.Delete(oldImagePath);
-							}
-						}
-						model.UserImg = FileUploadHelper.UploadFile(model.Image, uploadFolder);
-					}
-					//wenn das Userbild leer ist, wird das alte Bild übernommen
-					else
-					{
-						model.UserImg = currentUser.UserImg;
-					}
+					model.UserImg = ProcessUserImage(model, currentUser);
 					//der User wird in ein User Objekt umgewandelt
 					User user = new User
                     {
@@ -285,26 +254,11 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 				//versuche den User zu registrieren
 				try
 				{
-					//überprüfe ob der Username bereits vergeben ist wenn der Username bereits vergeben ist, wird eine Fehlermeldung angezeigt
-					if (!service.IsUsernameAvailable(model.Username))
-                    {
-                        ModelState.AddModelError("Username", "Der Benutzername ist bereits vergeben.");
-                        return View(model);
-                    }
-					//überprüfe ob die Email bereits vergeben ist wenn die Email bereits vergeben ist, wird eine Fehlermeldung angezeigt 
-					if (!service.IsEmailAvailable(model.Email))
+					if (!IsUsernameAvailable(model.Username) || !IsEmailAvailable(model.Email))
 					{
-						ModelState.AddModelError("Email", "Die Email ist bereits vergeben.");
 						return View(model);
 					}
-					//wenn der User ein Bild hat, wird der Pfad zu dem Bild hinzugefügt
-					if (model.Image != null)
-					{
-						string uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/UserImages");	
-						model.UserImg = FileUploadHelper.UploadFile(model.Image, uploadFolder);
-					}
-					//wenn das Userbild leer ist, wird das alte Bild übernommen
-					
+					model.UserImg = UploadImage(model);
 					//der User wird in ein User Objekt umgewandelt
 					User user = new User
                     {
@@ -335,10 +289,12 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 			//der User wird an die View übergeben
 			return View(model);
         }
-        #endregion
+		#endregion
 
-        #region Ist der User eingeloggt?
-        private bool IsUserLoggedIn(out int userId, out string username)
+		#region besondere Methoden zur Prüfung von verschiedenen gegebenheiten
+
+		#region Ist der User eingeloggt?
+		private bool IsUserLoggedIn(out int userId, out string username)
         {
 			//der User wird überprüft ob er eingeloggt ist oder nicht
 			//wenn er eingeloggt ist , wird der Usernameund  die UserId an die View übergeben
@@ -349,6 +305,98 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 			return userId != 0;
 
         }
-        #endregion
-    }
+		#endregion
+
+		#region ist der username verfügbar?
+		//die Methode IsUsernameValid überprüft ob der Username verfügbar ist bei der Update Methode
+		private bool IsUsernameValid(User currentUser, string newWusername)
+		{
+			//Wenn der USername nicht dem aktuellen Usernamen entspricht und der Username nicht verfügbar ist, wird eine Fehlermeldung ausgegeben
+			if (currentUser.Username != newWusername && !service.IsUsernameAvailable(newWusername))
+			{
+				ModelState.AddModelError("Username", "Der Benutzername ist bereits vergeben.");
+				return false;
+			}
+			return true;
+		}
+		//die Methode IsUsernameAvailable überprüft ob der Username verfügbar ist bei der newUser Methode
+		private bool IsUsernameAvailable(string username)
+		{
+			//Wenn der Username nicht verfügbar ist, wird eine Fehlermeldung ausgegeben
+			if (!service.IsUsernameAvailable(username))
+			{
+				ModelState.AddModelError("Username", "Der Benutzername ist bereits vergeben.");
+				return false;
+			}
+			return true;
+		}
+		#endregion
+
+		#region ist die Email verfügbar?
+		//die Methode IsEmailValid überprüft ob die Email verfügbar ist bei der Update Methode
+		private bool IsEmailValid(User currentUser, string newEmail)
+		{
+			//Wenn die neu eingetragene Email nicht der aktuellen Email entspricht und die Email nicht verfügbar ist, wird eine Fehlermeldung ausgegeben
+			if (currentUser.Email != newEmail && !service.IsEmailAvailable(newEmail))
+			{
+				ModelState.AddModelError("Email", "Die Email ist bereits vergeben.");
+				return false;
+			}
+			return true;
+		}
+		//die Methode IsEmailAvailable überprüft ob die Email verfügbar ist bei der newUser Methode
+		private bool IsEmailAvailable(string Email)
+		{
+			//Wenn die Email nicht verfügbar ist, wird eine Fehlermeldung ausgegeben
+			if (!service.IsEmailAvailable(Email))
+			{
+				ModelState.AddModelError("Email", "Die Email ist bereits vergeben.");
+				return false;
+			}
+			return true;
+		}
+		#endregion
+
+		#region Bild upload  optionen
+		//Methode um das Userbild zu updaten
+		private string ProcessUserImage(UpdateViewModel model, User currentUser)
+		{
+			//Wenn das Bild Model nicht leer ist, wird das Bild in den Pfad /images/UserImages gespeichert
+			if (model.Image != null)
+			{
+				string uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/UserImages");
+				//Wenn das Userbildfeld nicht leer ist, wird das alte Bild gelöscht und das neue Bild hochgeladen
+				if (!string.IsNullOrEmpty(model.UserImg))
+				{
+					string oldImagePath = Path.Combine(uploadFolder, model.UserImg);
+					if (System.IO.File.Exists(oldImagePath))
+					{
+						System.IO.File.Delete(oldImagePath);
+					}
+				}
+				//Das Bild wird in den Pfad /images/UserImages gespeichert
+				return FileUploadHelper.UploadFile(model.Image, uploadFolder);
+			}
+			//der currentUser wird zurückgegeben
+			return currentUser.UserImg;
+		}
+		//Methode um das Userbild  einzufügen bei einem neuen User
+		private string UploadImage(RegisterViewModel model)
+		{
+			//Wenn das Bild Model nicht leer ist, wird das Bild in den Pfad /images/UserImages gespeichert
+			if (model.Image != null)
+			{
+				string uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/UserImages");
+				//Das Bild wird in den Pfad /images/UserImages gespeichert
+				return FileUploadHelper.UploadFile(model.Image, uploadFolder);
+			}
+			//der currentUser wird zurückgegeben
+			return model.UserImg;
+		}
+
+		#endregion
+
+		#endregion
+
+	}
 }

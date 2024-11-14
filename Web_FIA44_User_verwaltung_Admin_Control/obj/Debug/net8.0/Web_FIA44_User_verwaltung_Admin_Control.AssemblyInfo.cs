@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_FIA44_User_verwaltung_Admin_Control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26387663356660bc84441f81abd1988884697b4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9204e889b7018204ceb12298bddf2f7c9c5d801e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_FIA44_User_verwaltung_Admin_Control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_FIA44_User_verwaltung_Admin_Control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
