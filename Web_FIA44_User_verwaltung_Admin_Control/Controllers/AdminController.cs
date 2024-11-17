@@ -204,7 +204,7 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 						return NotFound();
 					}
 					//Test auf verfügbarkeit des Usernamens und der Email 
-					if (!IsUsernameValid(currentUser, model.Username) || !IsEmailValid(currentUser , model.Email))
+					if (!IsUsernameValid(currentUser, model.Username) || !IsEmailValid(currentUser, model.Email))
 					{
 						return View(model);
 					}
@@ -359,7 +359,7 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 			return currentUser.UserImg;
 		}
 		//Methode um das Userbild  einzufügen bei einem neuen User
-		private string UploadImage (User user)
+		private string UploadImage(User user)
 		{
 			//Wenn das Bild Model nicht leer ist, wird das Bild in den Pfad /images/UserImages gespeichert
 			if (user.Image != null)

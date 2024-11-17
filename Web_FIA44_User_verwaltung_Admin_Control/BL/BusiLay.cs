@@ -80,7 +80,7 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.BL
 			catch (Exception ex)
 			{
 				Console.WriteLine($"Error inserting user: {ex.Message}");
-					}
+			}
 		}
 		#endregion
 
@@ -111,7 +111,7 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.BL
 			//Aktualisiere den User in der Datenbank
 			dal.UpdateUser(currentUser);
 		}
-		
+
 		#endregion
 
 		#region Alle User holen
@@ -154,14 +154,14 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.BL
 			//Der User wird in die Datenbank eingefügt
 			dal.InsertUser(newUser);
 		}
-        #endregion
+		#endregion
 
-        #region Überprüfen ob der Username verfügbar ist
-        public bool IsUsernameAvailable(string username)
-        {
+		#region Überprüfen ob der Username verfügbar ist
+		public bool IsUsernameAvailable(string username)
+		{
 			//Überprüfen ob der Username verfügbar ist
 			return dal.IsUsernameAvaiable(username);
-        }
+		}
 		#endregion
 
 		#region Überprüfen ob die Email nicht vergeben ist

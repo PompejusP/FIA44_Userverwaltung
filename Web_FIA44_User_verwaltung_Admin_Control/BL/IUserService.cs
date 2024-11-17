@@ -11,9 +11,9 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.BL
 		void updateUser(User user);
 		void deleteUser(int UId);
 		List<User> getAllUsers();
-       
-        bool IsUsernameAvailable(string username);
-        void RegisterUser(User user);
+
+		bool IsUsernameAvailable(string username);
+		void RegisterUser(User user);
 
 		bool IsEmailAvailable(string email);
 	}

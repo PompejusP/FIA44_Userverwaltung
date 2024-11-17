@@ -6,7 +6,7 @@ using Web_FIA44_User_verwaltung_Admin_Control.ViewModels;
 
 namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 {
-    public class HomeController : Controller
+	public class HomeController : Controller
 	{
 		#region ersten Hashwert generieren ist auskommentiert weil es nur einmal ausgeführt werden muss
 		//public HomeController()
@@ -86,7 +86,7 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 					//Username, UserId und ob der User Admin ist wird an die View übergeben
 					ViewBag.Username = user.Username;
 					ViewBag.UId = loggedUser.UId;
-                    ViewBag.IsAdmin = user.IsAdmin;
+					ViewBag.IsAdmin = user.IsAdmin;
 					//der User wird an die Index Seite weitergeleitet
 					return View("Index");
 				}
@@ -108,12 +108,12 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 		{
 			//der User wird überprüft ob er eingeloggt ist oder nicht
 			if (!IsUserLoggedIn(out int loggedInUserId, out string loggedInUsername))
-            {
-                return RedirectToAction("Login");
-            }
+			{
+				return RedirectToAction("Login");
+			}
 			//wenn er eingeloggt ist, wird der Username, die UserId und ob er Admin ist an die View übergeben
 			ViewBag.Username = loggedInUsername;
-            ViewBag.UId = loggedInUserId;
+			ViewBag.UId = loggedInUserId;
 			ViewBag.IsAdmin = bool.Parse(HttpContext.Session.GetString("IsAdmin") ?? "false");
 			// der User wird aus der Datenbank geholt
 			User user = service.GetUser(UId);
@@ -134,50 +134,50 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 			//der User wird überprüft ob er eingeloggt ist oder nicht wenn nicht wird er auf die Login Seite weitergeleitet 
 			//wenn er eingeloggt ist, wird der Username, die UserId und ob er Admin ist an die View übergeben
 			if (!IsUserLoggedIn(out int loggedInUserId, out string loggedInUsername))
-            {
-                return RedirectToAction("Login");
-            }
-            ViewBag.Username = loggedInUsername;
-            ViewBag.UId = loggedInUserId;
+			{
+				return RedirectToAction("Login");
+			}
+			ViewBag.Username = loggedInUsername;
+			ViewBag.UId = loggedInUserId;
 			ViewBag.IsAdmin = bool.Parse(HttpContext.Session.GetString("IsAdmin") ?? "false");
 			//der User wird mit seiner UserId aus der Datenbank geholt
 			User user = service.GetUser(UId);
 			//wenn kein User gefunden wird, wird eine Fehlermeldung angezeigt
 			if (user == null)
-            {
-                return NotFound();
-            }
+			{
+				return NotFound();
+			}
 
-            // Der User wird in ein UpdateViewModel umgewandelt
-            var model = new UpdateViewModel
-            {
-                UId = user.UId,
-                Username = user.Username,
-                Birthday = user.Birthday,
-                Email = user.Email,
-                UserImg = user.UserImg,
-                IsAdmin = user.IsAdmin,
-               
-            };
+			// Der User wird in ein UpdateViewModel umgewandelt
+			var model = new UpdateViewModel
+			{
+				UId = user.UId,
+				Username = user.Username,
+				Birthday = user.Birthday,
+				Email = user.Email,
+				UserImg = user.UserImg,
+				IsAdmin = user.IsAdmin,
 
-            //der User wird an die View übergeben
-            return View(model);
+			};
+
+			//der User wird an die View übergeben
+			return View(model);
 		}
 		[HttpPost]
-        public IActionResult Update(UpdateViewModel model)
-        {
+		public IActionResult Update(UpdateViewModel model)
+		{
 			//der User wird überprüft ob er eingeloggt ist oder nicht wenn nicht wird er auf die Login Seite weitergeleitet
 			//wenn er eingeloggt ist, wird der Username, die UserId und ob er Admin ist an die View übergeben
 			if (!IsUserLoggedIn(out int loggedInUserId, out string loggedInUsername))
-            {
-                return RedirectToAction("Login");
-            }
-            ViewBag.Username = loggedInUsername;
-            ViewBag.UId = loggedInUserId;
+			{
+				return RedirectToAction("Login");
+			}
+			ViewBag.Username = loggedInUsername;
+			ViewBag.UId = loggedInUserId;
 			ViewBag.IsAdmin = bool.Parse(HttpContext.Session.GetString("IsAdmin") ?? "false");
 			//es wird überprüft ob die Eingaben des Users korrekt sind
 			if (ModelState.IsValid)
-            {
+			{
 				// versuche den User zu updaten
 				try
 				{
@@ -185,9 +185,9 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 					User currentUser = service.GetUser(model.UId);
 					//wenn kein User gefunden wird, wird eine Fehlermeldung angezeigt
 					if (currentUser == null)
-                    {
-                        return NotFound();
-                    }
+					{
+						return NotFound();
+					}
 					if (!IsUsernameValid(currentUser, model.Username) || !IsEmailValid(currentUser, model.Email))
 					{
 						return View(model);
@@ -195,39 +195,39 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 					model.UserImg = ProcessUserImage(model, currentUser);
 					//der User wird in ein User Objekt umgewandelt
 					User user = new User
-                    {
-                        UId = model.UId,
-                        Username = model.Username,
-                        Password = model.Password, // Optional
-                        Birthday = model.Birthday,
-                        Email = model.Email,
-                        UserImg = model.UserImg,
-                        IsAdmin = model.IsAdmin
-                    };
+					{
+						UId = model.UId,
+						Username = model.Username,
+						Password = model.Password, // Optional
+						Birthday = model.Birthday,
+						Email = model.Email,
+						UserImg = model.UserImg,
+						IsAdmin = model.IsAdmin
+					};
 					//der User wird geupdatet
 					service.updateUser(user);
 					//nach abschluss wird der User an die Details Seite weitergeleitet
 					return RedirectToAction("Index");
-                }
+				}
 				//wenn ein Fehler auftritt wird eine Fehlermeldung angezeigt
 				catch (Exception ex)
-                {
-                    ModelState.AddModelError("", "Ein Fehler ist aufgetreten");
-                    Console.WriteLine(ex.Message);
-                }
-            }
+				{
+					ModelState.AddModelError("", "Ein Fehler ist aufgetreten");
+					Console.WriteLine(ex.Message);
+				}
+			}
 			//wenn die Eingaben des Users nicht korrekt sind, wird die Update Seite erneut aufgerufen
 			else
 			{
-                Console.WriteLine("ModelState is not valid");
-            }
+				Console.WriteLine("ModelState is not valid");
+			}
 			//der User wird an die View übergeben
 			return View(model);
-        }
-        #endregion
+		}
+		#endregion
 
-        #region Logout
-        public IActionResult Logout()
+		#region Logout
+		public IActionResult Logout()
 		{
 			//Session wird gelöscht
 			HttpContext.Session.Remove("LoggedIn");
@@ -236,21 +236,21 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 			//der User wird an die Login Seite weitergeleitet			//es wird auf die Index Seite weitergeleitet
 			return RedirectToAction("Index");
 		}
-        #endregion
+		#endregion
 
-        #region Registrieren
-        [HttpGet]
-        public IActionResult Register()
-        {
+		#region Registrieren
+		[HttpGet]
+		public IActionResult Register()
+		{
 			//rufe die Register Seite auf
 			return View();
-        }
-        [HttpPost]
-        public IActionResult Register(RegisterViewModel model)
-        {
+		}
+		[HttpPost]
+		public IActionResult Register(RegisterViewModel model)
+		{
 			//es wird überprüft ob die Eingaben des Users korrekt sind
 			if (ModelState.IsValid)
-            {
+			{
 				//versuche den User zu registrieren
 				try
 				{
@@ -261,50 +261,50 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 					model.UserImg = UploadImage(model);
 					//der User wird in ein User Objekt umgewandelt
 					User user = new User
-                    {
-                        Username = model.Username,
-                        Password = model.Password,
-                        Birthday = model.Birthday,
-                        Email = model.Email,
-                        UserImg = model.UserImg,
-                        
-                    };
+					{
+						Username = model.Username,
+						Password = model.Password,
+						Birthday = model.Birthday,
+						Email = model.Email,
+						UserImg = model.UserImg,
+
+					};
 					//der User wird hinzugefügt
 					service.addUser(user);
 					//nach abschluss wird der User an die Login Seite weitergeleitet
 					return RedirectToAction("Login");
-                }
+				}
 				//wenn ein Fehler auftritt wird eine Fehlermeldung angezeigt
 				catch (Exception ex)
-                {
-                    ModelState.AddModelError("", "Ein Fehler ist aufgetreten");
-                    Console.WriteLine(ex.Message);
-                }
-            }
+				{
+					ModelState.AddModelError("", "Ein Fehler ist aufgetreten");
+					Console.WriteLine(ex.Message);
+				}
+			}
 			//wenn die Eingaben des Users nicht korrekt sind, wird die Register Seite erneut aufgerufen
 			else
 			{
-                Console.WriteLine("ModelState is not valid");
-            }
+				Console.WriteLine("ModelState is not valid");
+			}
 			//der User wird an die View übergeben
 			return View(model);
-        }
+		}
 		#endregion
 
 		#region besondere Methoden zur Prüfung von verschiedenen gegebenheiten
 
 		#region Ist der User eingeloggt?
 		private bool IsUserLoggedIn(out int userId, out string username)
-        {
+		{
 			//der User wird überprüft ob er eingeloggt ist oder nicht
 			//wenn er eingeloggt ist , wird der Usernameund  die UserId an die View übergeben
 			userId = HttpContext.Session.GetInt32("LoggedInUserId") ?? 0;
-            username = HttpContext.Session.GetString("LoggedIn");
+			username = HttpContext.Session.GetString("LoggedIn");
 
 			//wenn die UserId nicht 0 ist, ist der User eingeloggt
 			return userId != 0;
 
-        }
+		}
 		#endregion
 
 		#region ist der username verfügbar?
@@ -377,7 +377,7 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 				//Das Bild wird in den Pfad /images/UserImages gespeichert
 				return FileUploadHelper.UploadFile(model.Image, uploadFolder);
 			}
-			
+
 			//der currentUser wird zurückgegeben
 			return currentUser.UserImg;
 		}
