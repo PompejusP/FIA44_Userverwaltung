@@ -36,24 +36,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\0b4e1e66-7aa2-4bdd-8247-d726d78596e0.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Web_FIA44_User_verwaltung_Admin_Control</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Web_FIA44_User_verwaltung_Admin_Control</BasePath>
-      <RelativePath>Images/UserImages/466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zeyuq6zope</Fingerprint>
-      <Integrity>RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>Web_FIA44_User_verwaltung_Admin_Control</SourceId>
@@ -72,12 +54,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Web_FIA44_User_verwaltung_Admin_Control</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Web_FIA44_User_verwaltung_Admin_Control</BasePath>
-      <RelativePath>Images/UserImages/77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg</RelativePath>
+      <RelativePath>Images/UserImages/b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -88,7 +70,25 @@
       <Integrity>2OIoTRAkFlhTnH12PVwmiaT8SH1FJjYco5aQN6fbKkc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\standard.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Web_FIA44_User_verwaltung_Admin_Control</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Web_FIA44_User_verwaltung_Admin_Control</BasePath>
+      <RelativePath>Images/UserImages/standard.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kjuam4sl9c</Fingerprint>
+      <Integrity>IB+A4FLg2jwpCYppMjHZleormckYw1mQTrads5gZaAY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\UserImages\standard.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Libary\bootstrap\dist\css\bootstrap.css'))">
       <SourceType>Package</SourceType>

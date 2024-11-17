@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kt8HdYIuDaboLOqTtCONfGkchyKDIAwrHj8s7ZLFIaY=",
+  "Hash": "CS6iLt9QlTQ4N+Xf9BVp1kk21KdNsKPHyuFhUtk3c7g=",
   "Source": "Web_FIA44_User_verwaltung_Admin_Control",
   "BasePath": "_content/Web_FIA44_User_verwaltung_Admin_Control",
   "Mode": "Default",
@@ -101,27 +101,6 @@
       "OriginalItemSpec": "wwwroot\\Images\\UserImages\\0b4e1e66-7aa2-4bdd-8247-d726d78596e0.png"
     },
     {
-      "Identity": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg",
-      "SourceId": "Web_FIA44_User_verwaltung_Admin_Control",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\",
-      "BasePath": "_content/Web_FIA44_User_verwaltung_Admin_Control",
-      "RelativePath": "Images/UserImages/466a8369-6fcd-4e77-a747-c42dcd5246b0#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zeyuq6zope",
-      "Integrity": "RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\UserImages\\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg"
-    },
-    {
       "Identity": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg",
       "SourceId": "Web_FIA44_User_verwaltung_Admin_Control",
       "SourceType": "Discovered",
@@ -143,12 +122,12 @@
       "OriginalItemSpec": "wwwroot\\Images\\UserImages\\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg"
     },
     {
-      "Identity": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg",
+      "Identity": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg",
       "SourceId": "Web_FIA44_User_verwaltung_Admin_Control",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\",
       "BasePath": "_content/Web_FIA44_User_verwaltung_Admin_Control",
-      "RelativePath": "Images/UserImages/77efbbd0-1114-4a7e-8215-4cd6ada0a071#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/UserImages/b817bae7-64ba-4763-bb0d-9fa911da6d2a#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -161,7 +140,28 @@
       "Integrity": "2OIoTRAkFlhTnH12PVwmiaT8SH1FJjYco5aQN6fbKkc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\UserImages\\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\UserImages\\b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\standard.jpg",
+      "SourceId": "Web_FIA44_User_verwaltung_Admin_Control",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\",
+      "BasePath": "_content/Web_FIA44_User_verwaltung_Admin_Control",
+      "RelativePath": "Images/UserImages/standard#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kjuam4sl9c",
+      "Integrity": "IB+A4FLg2jwpCYppMjHZleormckYw1mQTrads5gZaAY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\UserImages\\standard.jpg"
     },
     {
       "Identity": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Libary\\bootstrap\\dist\\css\\bootstrap.css",
@@ -13980,88 +13980,6 @@
       ]
     },
     {
-      "Route": "Images/UserImages/466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg",
-      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10097"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 12 Nov 2024 12:56:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8="
-        }
-      ]
-    },
-    {
-      "Route": "Images/UserImages/466a8369-6fcd-4e77-a747-c42dcd5246b0.zeyuq6zope.jpeg",
-      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10097"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 12 Nov 2024 12:56:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zeyuq6zope"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/UserImages/466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RZQpvZ6xRWX6ojMpFZa3uWzHVkxDlAK3BQ1egsUQGd8="
-        }
-      ]
-    },
-    {
       "Route": "Images/UserImages/5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg",
       "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg",
       "Selectors": [],
@@ -14144,8 +14062,8 @@
       ]
     },
     {
-      "Route": "Images/UserImages/77efbbd0-1114-4a7e-8215-4cd6ada0a071.c3eqxu6nfe.jpg",
-      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg",
+      "Route": "Images/UserImages/b817bae7-64ba-4763-bb0d-9fa911da6d2a.c3eqxu6nfe.jpg",
+      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14166,7 +14084,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 08:04:47 GMT"
+          "Value": "Wed, 13 Nov 2024 20:30:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14180,7 +14098,7 @@
         },
         {
           "Name": "label",
-          "Value": "Images/UserImages/77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg"
+          "Value": "Images/UserImages/b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg"
         },
         {
           "Name": "integrity",
@@ -14189,8 +14107,8 @@
       ]
     },
     {
-      "Route": "Images/UserImages/77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg",
-      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg",
+      "Route": "Images/UserImages/b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg",
+      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14211,7 +14129,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 08:04:47 GMT"
+          "Value": "Wed, 13 Nov 2024 20:30:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14222,6 +14140,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-2OIoTRAkFlhTnH12PVwmiaT8SH1FJjYco5aQN6fbKkc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/UserImages/standard.jpg",
+      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\standard.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IB+A4FLg2jwpCYppMjHZleormckYw1mQTrads5gZaAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 15:11:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IB+A4FLg2jwpCYppMjHZleormckYw1mQTrads5gZaAY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/UserImages/standard.kjuam4sl9c.jpg",
+      "AssetFile": "C:\\Users\\pompi\\Desktop\\Programmieren\\Web_FIA44_User_verwaltung_Admin_Control\\Web_FIA44_User_verwaltung_Admin_Control\\wwwroot\\Images\\UserImages\\standard.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IB+A4FLg2jwpCYppMjHZleormckYw1mQTrads5gZaAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Nov 2024 15:11:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjuam4sl9c"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/UserImages/standard.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IB+A4FLg2jwpCYppMjHZleormckYw1mQTrads5gZaAY="
         }
       ]
     },

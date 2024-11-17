@@ -1,2 +1,1 @@
-C:\Users\pompi\Desktop\Programmieren\Web_FIA44_User_verwaltung_Admin_Control\Web_FIA44_User_verwaltung_Admin_Control\wwwroot\Images\UserImages\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg
-C:\Users\pompi\Desktop\Programmieren\Web_FIA44_User_verwaltung_Admin_Control\Web_FIA44_User_verwaltung_Admin_Control\wwwroot\Images\UserImages\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg
+C:\Users\pompi\Desktop\Programmieren\Web_FIA44_User_verwaltung_Admin_Control\Web_FIA44_User_verwaltung_Admin_Control\wwwroot\Images\standard_user_image\standard.jpg

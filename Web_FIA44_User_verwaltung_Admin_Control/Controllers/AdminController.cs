@@ -368,8 +368,10 @@ namespace Web_FIA44_User_verwaltung_Admin_Control.Controllers
 				//Das Bild wird in den Pfad /images/UserImages gespeichert
 				return FileUploadHelper.UploadFile(user.Image, uploadFolder);
 			}
-			//der currentUser wird zurückgegeben
-			return user.UserImg;
+			else //wenn kein Bild hochgeladen wird, wird ein Standardbild verwendet
+			{
+				return "standard.jpg";
+			}
 		}
 
 		#endregion

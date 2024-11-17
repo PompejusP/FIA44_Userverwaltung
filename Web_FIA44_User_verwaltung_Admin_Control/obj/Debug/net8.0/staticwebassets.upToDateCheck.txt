@@ -1,8 +1,8 @@
 wwwroot\css\Style.css
 wwwroot\Images\UserImages\0b4e1e66-7aa2-4bdd-8247-d726d78596e0.png
-wwwroot\Images\UserImages\466a8369-6fcd-4e77-a747-c42dcd5246b0.jpeg
 wwwroot\Images\UserImages\5ef240f2-e689-4378-ae01-25e8d260f8b0.jpeg
-wwwroot\Images\UserImages\77efbbd0-1114-4a7e-8215-4cd6ada0a071.jpg
+wwwroot\Images\UserImages\b817bae7-64ba-4763-bb0d-9fa911da6d2a.jpg
+wwwroot\Images\UserImages\standard.jpg
 wwwroot\Libary\bootstrap\dist\css\bootstrap.css
 wwwroot\Libary\bootstrap\dist\css\bootstrap.css.map
 wwwroot\Libary\bootstrap\dist\css\bootstrap.min.css

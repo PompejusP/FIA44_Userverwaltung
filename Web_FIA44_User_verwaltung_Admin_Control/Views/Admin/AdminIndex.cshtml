@@ -5,7 +5,7 @@
     ViewData["Title"] = "AdminIndex";
 }
 
-<h1>AdminIndex</h1>
+<h1>Userverwaltung</h1>
 
 <p>
     <a class="btn btn-outline-secondary" asp-controller="admin" asp-action="newUser">Neuer User</a>
@@ -53,7 +53,7 @@
                 <img src="@user.UserImg"  width="50px" />
             </td>
             <td>
-                @user.IsAdmin
+                @(user.IsAdmin? "✅":"❌")
             </td>
             <td>
                     <a class="link-underline-opacity-0" href="/admin/Details?UId=@user.UId">🔎</a>
